@@ -1,2 +1,2 @@
-# Chroza-DCBOT
-DISCORD BOT DEVELOPED BY CHROZA
+# Luna
+ 
